@@ -1,1 +1,1 @@
-# Hand_Detection
+# MyProject
