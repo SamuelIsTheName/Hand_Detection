@@ -1,0 +1,35 @@
+.box{
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    width: 150px;
+    height: 150px;
+    border: 1px solid red;
+    background-color: red;
+}
+.mousePositionBox{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    border: 1px solid rgb(81, 0, 255);
+    text-align: center;
+    padding: 20px;
+}
+.boxPositionBox{
+    position: absolute;
+    top: 150px;
+    width: 200px;
+    height: 100px;
+    border: 1px solid rgb(81, 0, 255);
+    text-align: center;
+    padding: 20px;
+}
+.boxDataBox{
+    position: absolute;
+    top: 300px;
+    width: 200px;
+    height: 100px;
+    border: 1px solid rgb(81, 0, 255);
+    text-align: center;
+    padding: 20px;
+}
